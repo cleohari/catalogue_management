@@ -20,6 +20,25 @@ It also provides you with category visualization through a pie chart.
 ### API Used
 - fakestoreapi API
 
+## 🏗 Setup 
+1. Fork the repo by clicking the fork button
+2. Clone the repo
+```
+    $ git clone https://github.com/your_github_username/catalogue_management.git
+```
+3. change to project directory
+```
+    $ cd catalogue_management
+```
+4. you need to install node_modules
+```
+    $ npm install
+```
+It's time to run the project
+```
+    $ npm start
+```
+
 # 📷 Screenshots
 ![Loading Screen](./src/img/img_1.png)<br/>
 ![Home Screen](./src/img/img_2.png)<br/>
